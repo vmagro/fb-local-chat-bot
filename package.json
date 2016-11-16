@@ -46,10 +46,6 @@
     "supertest-as-promised": "3.1.0",
     "webpack": "1.13.1"
   },
-  "engines": {
-    "node": "4.4.5",
-    "npm": "2.15.5"
-  },
   "license": "MIT",
   "author": "Samping Chuang <sampingchuang@gmail.com>"
 }
